@@ -14,6 +14,7 @@ Web To-Be-Supported:
 * POST requests
 * SMS?
 * SQL
+* Alchemy API?
 
 Non-Web To-Be-Supported:
 * Skype
