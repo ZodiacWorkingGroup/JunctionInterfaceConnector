@@ -11,7 +11,8 @@ Web To-Be-Supported:
 * GitHub
 * Twitter
 * Google APIs
-* POST requests
+* POST request receiving
+* Request sending
 * SMS?
 * SQL
 * Alchemy API?
@@ -19,5 +20,10 @@ Web To-Be-Supported:
 Non-Web To-Be-Supported:
 * Skype
 * Text-to-speech
+* File reading
 * OSy things
 * Command Execution
+* Hotkeys
+* Sending keys (windows only, for now)
+* Bluetooth
+* GUI?
